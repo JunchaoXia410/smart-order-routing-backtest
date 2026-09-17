@@ -1,4 +1,4 @@
-# Smart Order Routing Backtest
+# Smart Order Routing & Execution Strategy Backtester
 
 This project implements and compares various order execution strategies—**Best Ask**, **TWAP (Time-Weighted Average Price)**, **VWAP (Volume-Weighted Average Price)**, and a **Smart Order Router (SOR)**—to assess their effectiveness in minimizing trading costs.
 
